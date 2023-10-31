@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/src/functions/**/*.ts": {
+    "api/src/functions/testFunction/testFunction.ts": {
       "maxDuration": 200
     }
   }
