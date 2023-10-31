@@ -1,6 +1,3 @@
-export const maxDuration = 300
-export const dynamic = 'force-dynamic'
-
 import type { APIGatewayEvent, Context } from 'aws-lambda'
 
 import { logger } from 'src/lib/logger'
