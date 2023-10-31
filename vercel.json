@@ -5,7 +5,7 @@
     }
   },
   "functions": {
-    "api/**/*": {
+    "api/src/functions/**/*": {
       "memory": 3008,
       "maxDuration": 300
     }
