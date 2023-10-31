@@ -1,0 +1,13 @@
+{
+  "build": {
+    "env": {
+      "NODEJS_AWS_HANDLER_NAME": "handler"
+    }
+  },
+  "functions": {
+    "api/**/*": {
+      "memory": 3008,
+      "maxDuration": 300
+    }
+  }
+}
