@@ -3,11 +3,5 @@
     "env": {
       "NODEJS_AWS_HANDLER_NAME": "handler"
     }
-  },
-  "functions": {
-    "api/src/functions/**/*": {
-      "memory": 3008,
-      "maxDuration": 300
-    }
   }
 }
